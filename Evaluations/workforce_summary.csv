@@ -1,0 +1,17 @@
+name,overallocation,conflicts,undersupport,unavailable,unpreferred
+workforce,0,0,2,1,0
+workforce,1,0,0,1,1
+workforce,1,0,1,1,0
+workforce,0,0,2,0,1
+workforce,0,0,1,1,1
+workforce,0,0,0,0,3
+workforce,0,0,0,3,0
+workforce,0,0,1,0,2
+workforce,0,0,1,2,0
+workforce,1,0,0,0,2
+workforce,0,0,3,0,0
+workforce,1,0,2,0,0
+workforce,1,0,0,2,0
+workforce,0,0,0,2,1
+workforce,1,0,1,0,1
+workforce,0,0,0,1,2
