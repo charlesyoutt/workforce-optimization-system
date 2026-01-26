@@ -1,4 +1,4 @@
-### Workforce Optimization System
+# Workforce Optimization System
 
 ## Overview
 I built this project to solve a realistic scheduling problem: assigning people to tasks while dealing with constraints like availability, coverage requirements, workload limits, and preferences. Instead of hard-coding rules, the system evaluates trade-offs and searches for better assignments over time.
