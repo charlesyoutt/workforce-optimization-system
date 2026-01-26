@@ -1,8 +1,9 @@
 """
 File: evo.py
-Description: A concise evolutionary computing framework for solving
-            multi-objective optimization problems!
+Description: A simple evolutionary optimization engine that searches for
+             better solutions across multiple competing objectives.
 """
+
 
 import random as rnd
 import copy

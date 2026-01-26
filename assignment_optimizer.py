@@ -1,3 +1,10 @@
+"""
+File: assignment_optimizer.py
+Description: Contains the core logic for the workforce assignment problem,
+             including constraints, scoring rules, and operators used to
+             improve schedules.
+"""
+
 import numpy as np
 import pandas as pd
 import random as rnd

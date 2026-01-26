@@ -1,3 +1,9 @@
+"""
+File: test_assignment_optimizer.py
+Description: Tests for checking that constraints and scoring logic behave
+             correctly under controlled edge cases.
+"""
+
 import numpy as np
 from assignment_optimizer import overallocation, conflicts, undersupport, unavailable, unpreferred
 
