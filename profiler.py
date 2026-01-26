@@ -1,3 +1,9 @@
+"""
+File: profiler.py
+Description: Lightweight profiling utilities used to track runtime and
+             performance during optimization.
+"""
+
 from collections import defaultdict
 import time
 
