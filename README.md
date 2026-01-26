@@ -27,9 +27,10 @@ Supporting folders include input data, unit tests with small synthetic datasets,
 ## Technical Concepts
 This project touches a mix of system design and data-driven concepts, including:
 - Multi-objective optimization
-- Constraint modeling
+- Constraint-based scheduling
 - Heuristic / evolutionary search
-- Modular Python design
+- Modular and object-oriented Python design
+- Function wrappers and decorators
 - Testing with synthetic data
 - Performance profiling
 
