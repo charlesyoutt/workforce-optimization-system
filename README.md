@@ -35,7 +35,7 @@ This project touches a mix of system design and data-driven concepts, including:
 - Performance profiling
 
 ## Results
-This system was evaluated in a competitive optimization setting and placed 2nd out of 60 groups based on overall schedule quality, including coverage, workload balance, and preference satisfaction.
+This system was evaluated in a competitive optimization setting and placed **2nd out of 60** groups based on overall schedule quality, including coverage, workload balance, and preference satisfaction. The optimizer improved solution quality over successive iterations by balancing trade-offs across these constraints.
 
 ## Why This Project Matters
 Real scheduling problems are about balancing trade-offs, not finding a perfect answer. This project shows how to model those trade-offs cleanly and build a system that consistently produces strong solutions.
